@@ -17,7 +17,7 @@ React 생태계를 기반으로 한 최신 웹 기술을 활용하여
 - **DGD Admin (관리자 페이지)**  
   👉 https://app3.green-meerkat.kro.kr/
 
-- **DGD 시연영상**
+- **DGD 시연영상** 
   👉 https://youtu.be/R-VGD7_iKck/
   
 > 서버는 별도로 구성되어 운영 중이며,  
