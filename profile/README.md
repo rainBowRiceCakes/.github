@@ -17,6 +17,9 @@ React 생태계를 기반으로 한 최신 웹 기술을 활용하여
 - **DGD Admin (관리자 페이지)**  
   👉 https://app3.green-meerkat.kro.kr/
 
+- **DGD 시연영상**
+  👉 https://youtu.be/R-VGD7_iKck/
+  
 > 서버는 별도로 구성되어 운영 중이며,  
 > 위 링크를 통해 전체 서비스를 실시간으로 확인할 수 있습니다.
 
@@ -91,10 +94,10 @@ React 생태계를 기반으로 한 최신 웹 기술을 활용하여
 ---
 
 ## 👥 Team
-- @uiwook
-- @wjdwnsdud95
-- @Sarangheayo
-- @itsurfavsong
+- 정의욱 ([@uiwook](https://github.com/uiwook)): 팀 총괄, PM, 어드민 페이지 담당
+- 정준영 ([@wjdwnsdud95](https://github.com/wjdwnsdud95)): 어드민 대시보드 (Chart.js) 로그인 기능 및 메인 페이지(Carousel) 담당
+- 최설아 ([@Sarangheayo](https://github.com/Sarangheayo)): 전체 메인 페이지 담당
+- 송보미 ([@itsurfavsong](https://github.com/itsurfavsong)): 기사, 파트너 페이지 담당
 
 ---
 
